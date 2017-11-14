@@ -403,6 +403,9 @@
    text-align: center;
    margin-right:8px;
  }
+ .left-nav .items ul li.active {
+   background: #000000;
+}
 
   /* LEFT NAVBAR SETTINGS */
  .left-nav .settings {
